@@ -18,7 +18,7 @@ export default function Navigation() {
   const [isOpen, setIsOpen] = useState(false);
   const [showFloatingButton, setShowFloatingButton] = useState(false);
   const [isMounted, setIsMounted] = useState(false);
-  const phoneNumber = "06 58 17 37 44";
+  const phoneNumber = "06 01 25 45 73";
 
   useEffect(() => {
     setIsMounted(true);
@@ -80,7 +80,7 @@ export default function Navigation() {
               >
                 <Image
                   src="/logo.png"
-                  alt="HDJ Rénovation - Placo, Peinture, Sol, Plomberie, Électricité"
+                  alt="Erick Toitures - Charpente, Couverture, Zinguerie & Isolation"
                   width={120}
                   height={48}
                   className="h-16 w-auto object-contain"
@@ -217,7 +217,7 @@ export default function Navigation() {
                 >
                   <Image
                     src="/logo.png"
-                    alt="HDJ Rénovation - Placo, Peinture, Sol, Plomberie, Électricité"
+                    alt="Erick Toitures - Charpente, Couverture, Zinguerie & Isolation"
                     width={100}
                     height={40}
                     className="h-10 w-auto object-contain"

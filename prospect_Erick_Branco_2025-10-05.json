@@ -1,0 +1,41 @@
+{
+  "id": "VEwXbOJGOKgUyMKd50di",
+  "informationsPersonnelles": {
+    "nom": "Branco",
+    "prenom": "Erick",
+    "email": "",
+    "telephone": "0601254573",
+    "etape": "R2",
+    "date": {
+      "type": "firestore/timestamp/1.0",
+      "seconds": 1759307736,
+      "nanoseconds": 777000000
+    },
+    "rgpd": false,
+    "commentaire": "Travail avec son fils, R2 de positionné 06/10/2025 à 18h. Très interréssé par la deuxieme solution"
+  },
+  "informationsEntreprise": {
+    "nomEntreprise": "",
+    "entreprise": "Erick Toitures",
+    "metier": "Charpente couverture zingueurie renovation isolation",
+    "secteurActivite": "Nice, Lyon, Var",
+    "raisonSociale": "SAS",
+    "anneeCreation": "",
+    "nombreCollaborateurs": "2-5",
+    "prestation": "",
+    "rayonIntervention": "",
+    "certifications": "",
+    "garanties": "Décennale",
+    "partenaires": ""
+  },
+  "siteWebEtCommunication": {
+    "siteWebExistant": false,
+    "siteWebURL": "",
+    "logo": false,
+    "sitePret": false
+  },
+  "metadonnees": {
+    "dateExport": "2025-10-05T15:38:12.183Z",
+    "exportePar": "Admin Trouver Mon Chantier"
+  }
+}

@@ -20,7 +20,7 @@ interface ContactSectionProps {
 
 export default function ContactSection({
   title = "Nous Trouver",
-  subtitle = "HDJ Rénovation intervient en Gironde dans un rayon de 100km",
+  subtitle = "Erick Toitures intervient dans les Alpes-Maritimes, le Rhône et le Var",
   contactInfo
 }: ContactSectionProps) {
   return (

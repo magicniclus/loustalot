@@ -36,7 +36,7 @@ export default function Footer() {
                 >
                   <Image
                     src="/logo.png"
-                    alt="HDJ Rénovation - Placo, Peinture, Sol, Plomberie, Électricité"
+                    alt="Erick Toitures - Charpente, Couverture, Zinguerie & Isolation"
                     width={120}
                     height={48}
                     className="h-12 w-auto object-contain filter invert"
@@ -44,13 +44,13 @@ export default function Footer() {
                 </motion.div>
               </div>
               <p className="text-slate-300 text-sm leading-relaxed">
-                Artisan spécialisé en placo, peinture, sol, plomberie, électricité et menuiserie en Gironde. Auto-entrepreneur qualifié avec garantie décennale.
+                Spécialiste en charpente, couverture, zinguerie, rénovation et isolation dans les Alpes-Maritimes, le Rhône et le Var. Entreprise SAS avec garantie décennale.
               </p>
               <a 
-                href="mailto:hdj.renovation@gmail.com" 
+                href="tel:0601254573" 
                 className="text-primary hover:text-primary/80 text-sm font-medium transition-colors"
               >
-                hdj.renovation@gmail.com
+                06 01 25 45 73
               </a>
             </motion.div>
 
@@ -89,11 +89,11 @@ export default function Footer() {
               <h3 className="text-lg font-semibold">Contact</h3>
               <div className="space-y-2">
                 <a 
-                  href="tel:0658173744"
+                  href="tel:0601254573"
                   className="text-slate-300 hover:text-white text-sm transition-colors duration-200 block flex items-center space-x-2"
                 >
                   <Phone className="h-4 w-4" />
-                  <span>06 58 17 37 44</span>
+                  <span>06 01 25 45 73</span>
                 </a>
                 <p className="text-slate-400 text-xs">
                   Disponible du lundi au samedi de 8h à 18h
@@ -114,7 +114,7 @@ export default function Footer() {
               transition={{ duration: 0.6, delay: 0.3 }}
               viewport={{ once: true }}
             >
-              © {currentYear} HDJ Rénovation. Tous droits réservés.
+              © {currentYear} Erick Toitures. Tous droits réservés.
             </motion.p>
 
             {/* Powered by */}

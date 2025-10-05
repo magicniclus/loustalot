@@ -107,19 +107,19 @@ export default function Home() {
 
   const teamMembers = [
     {
-      name: "Djamel Khadir",
-      position: "Artisan du bâtiment",
-      description: "Spécialisé en placo, peinture, sol, plomberie, électricité et menuiserie en Gironde. Auto-entrepreneur qualifié intervenant dans un rayon de 100km avec garantie décennale. Nous nous engageons à fournir des prestations de qualité avec des finitions soignées.",
+      name: "Erick Branco",
+      position: "Spécialiste toiture et charpente",
+      description: "Spécialisé en charpente, couverture, zinguerie, rénovation et isolation dans les Alpes-Maritimes, le Rhône et le Var. Entreprise SAS avec une équipe de 2 à 5 collaborateurs qualifiés, garantie décennale. Nous nous engageons à fournir des prestations de qualité avec des finitions soignées pour tous vos projets de toiture.",
       photo: "https://images.unsplash.com/photo-1507003211169-0a1dd7228f2d?w=400&h=400&fit=crop&crop=face"
     }
   ];
 
   const contactInfo = {
-    address: "Gironde\nFrance",
-    phone: "06 58 17 37 44",
-    email: "hdj.renovation@gmail.com",
+    address: "Alpes-Maritimes, Rhône, Var\nFrance",
+    phone: "06 01 25 45 73",
+    email: "",
     hours: "Lundi - Vendredi: 8h00 - 18h00\nSamedi: 8h00 - 12h00",
-    mapEmbedUrl: "https://maps.google.com/maps?q=Gironde,France&t=&z=10&ie=UTF8&iwloc=&output=embed"
+    mapEmbedUrl: "https://maps.google.com/maps?q=Nice,Lyon,Var,France&t=&z=7&ie=UTF8&iwloc=&output=embed"
   };
 
   return (
@@ -132,7 +132,7 @@ export default function Home() {
           title={config.about.sections[0].title}
           subtitle={config.about.sections[0].subtitle}
           content={config.about.sections[0].content}
-          image="/maison.png"
+          image="/toiture.jpg"
           gradientFrom={config.about.sections[0].gradientFrom}
           gradientTo={config.about.sections[0].gradientTo}
           buttonText={config.about.sections[0].buttonText}
@@ -151,7 +151,7 @@ export default function Home() {
         title={config.about.sections[1].title}
         subtitle={config.about.sections[1].subtitle}
         content={config.about.sections[1].content}
-        image="/maison-work.png"
+        image="/charpente.jpg"
         gradientFrom={config.about.sections[1].gradientFrom}
         gradientTo={config.about.sections[1].gradientTo}
         buttonText={config.about.sections[1].buttonText}
