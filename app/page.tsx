@@ -20,22 +20,28 @@ export default function Home() {
   });
   const servicesData = [
     {
-      title: "Placo",
-      subtitle: "Cloisons & Finitions",
-      content: "Pose de cloisons, doublages, plafonds suspendus, enduits et finitions placo avec un savoir-faire professionnel.",
-      image: "/placo.png"
+      title: "Charpente",
+      subtitle: "Construction & Rénovation",
+      content: "Conception, construction et rénovation de charpentes traditionnelles et industrielles. Expertise en bois massif et lamellé-collé avec garantie décennale.",
+      image: "/charpente2.png"
     },
     {
-      title: "Peinture",
-      subtitle: "Intérieur & Extérieur",
-      content: "Travaux de peinture intérieure et extérieure, préparation des supports, finitions soignées et conseils couleurs.",
-      image: "/peinture.png"
+      title: "Couverture",
+      subtitle: "Toiture & Étanchéité",
+      content: "Pose et rénovation de toitures, tuiles, ardoises, bac acier. Travaux d'étanchéité et isolation thermique pour une protection optimale.",
+      image: "/charpente2.png"
     },
     {
-      title: "Sol & Plomberie",
-      subtitle: "Pose & Installation",
-      content: "Pose de revêtements de sol, installation et rénovation plomberie, électricité et menuiserie avec garantie décennale.",
-      image: "/tableau.png"
+      title: "Zinguerie",
+      subtitle: "Évacuation & Finitions",
+      content: "Installation de gouttières, chéneaux, descentes pluviales. Travaux de zinguerie et finitions métalliques pour l'évacuation des eaux.",
+      image: "/charpente2.png"
+    },
+    {
+      title: "Isolation",
+      subtitle: "Thermique & Phonique",
+      content: "Isolation de toitures, combles et murs. Solutions thermiques et phoniques performantes pour améliorer le confort et réduire les consommations.",
+      image: "/charpente2.png"
     }
   ];
 
