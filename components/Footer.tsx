@@ -36,21 +36,21 @@ export default function Footer() {
                 >
                   <Image
                     src="/logo.png"
-                    alt="Erick Toitures - Charpente, Couverture, Zinguerie & Isolation"
+                    alt="LOUSTALOT KIM - Rénovation, Toiture, Couverture & Charpente"
                     width={120}
                     height={48}
-                    className="h-12 w-auto object-contain filter invert"
+                    className="h-12 w-auto object-contain brightness-0 invert"
                   />
                 </motion.div>
               </div>
               <p className="text-slate-300 text-sm leading-relaxed">
-                Spécialiste en charpente, couverture, zinguerie, rénovation et isolation dans les Alpes-Maritimes, le Rhône et le Var. Entreprise SAS avec garantie décennale.
+                Entrepreneur du bâtiment spécialisé en rénovation, toiture, couverture, charpente et maçonnerie en Nouvelle-Aquitaine (33930).
               </p>
               <a 
-                href="tel:0601254573" 
+                href="tel:0780636848" 
                 className="text-primary hover:text-primary/80 text-sm font-medium transition-colors"
               >
-                06 01 25 45 73
+                07 80 63 68 48
               </a>
             </motion.div>
 
@@ -89,11 +89,11 @@ export default function Footer() {
               <h3 className="text-lg font-semibold">Contact</h3>
               <div className="space-y-2">
                 <a 
-                  href="tel:0601254573"
+                  href="tel:0780636848"
                   className="text-slate-300 hover:text-white text-sm transition-colors duration-200 block flex items-center space-x-2"
                 >
                   <Phone className="h-4 w-4" />
-                  <span>06 01 25 45 73</span>
+                  <span>07 80 63 68 48</span>
                 </a>
                 <p className="text-slate-400 text-xs">
                   Disponible du lundi au samedi de 8h à 18h
@@ -114,7 +114,7 @@ export default function Footer() {
               transition={{ duration: 0.6, delay: 0.3 }}
               viewport={{ once: true }}
             >
-              © {currentYear} Erick Toitures. Tous droits réservés.
+              © {currentYear} LOUSTALOT KIM. Tous droits réservés.
             </motion.p>
 
             {/* Powered by */}

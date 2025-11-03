@@ -27,9 +27,9 @@ export default function Hero({
   title = "Trouvez le professionnel idéal pour vos travaux",
   description = "Mettez en relation avec des artisans qualifiés et obtenez des devis gratuits pour tous vos projets de construction et rénovation.",
   bulletPoints = [
-    "Équipe de 3 collaborateurs qualifiés",
-    "Garantie décennale sur tous nos travaux",
-    "Intervention dans un rayon de 100km"
+    "Entrepreneur du bâtiment expérimenté",
+    "Travaux de qualité avec finitions soignées",
+    "Intervention en Nouvelle-Aquitaine (33930)"
   ],
   googleReviewsWidget
 }: HeroProps) {

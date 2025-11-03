@@ -45,11 +45,11 @@ export default function ContactPage() {
   };
 
   const contactInfo = {
-    address: "Île-de-France\nFrance",
-    phone: "06 05 59 88 97",
-    email: "contact@olege-batiment.fr",
+    address: "Nouvelle-Aquitaine (33930)\nFrance",
+    phone: "07 80 63 68 48",
+    email: "ent.loustalot33@gmail.com",
     hours: "Lundi - Vendredi: 8h00 - 18h00\nSamedi: 8h00 - 12h00",
-    mapEmbedUrl: "https://maps.google.com/maps?q=Île-de-France,France&t=&z=10&ie=UTF8&iwloc=&output=embed"
+    mapEmbedUrl: "https://maps.google.com/maps?q=Nouvelle-Aquitaine,33930,France&t=&z=10&ie=UTF8&iwloc=&output=embed"
   };
 
   return (
@@ -70,7 +70,7 @@ export default function ContactPage() {
               Nous Contacter
             </h1>
             <p className="text-xl md:text-2xl text-gray-600 max-w-3xl mx-auto">
-              Une question ? Un projet ? Nous sommes là pour vous accompagner dans tous vos travaux d'électricité, peinture et plâtrerie.
+              Une question ? Un projet ? Je suis là pour vous accompagner dans tous vos travaux de rénovation, toiture, charpente et maçonnerie.
             </p>
           </motion.div>
         </div>
@@ -126,7 +126,7 @@ export default function ContactPage() {
                           value={formData.phone}
                           onChange={handleInputChange}
                           className="w-full pl-10 pr-4 py-3 border border-gray-300 rounded-lg focus:ring-2 focus:ring-orange-500 focus:border-transparent transition-all duration-200"
-                          placeholder="06 05 59 88 97"
+                          placeholder="07 80 63 68 48"
                         />
                       </div>
                     </div>

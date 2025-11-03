@@ -5,8 +5,8 @@ import Footer from "../components/Footer";
 import Script from "next/script";
 
 export const metadata: Metadata = {
-  title: "Olege Bâtiment - Électricité, Peinture & Plâtrerie en Île-de-France",
-  description: "Olege Bâtiment, équipe de 3 collaborateurs spécialisés en électricité, peinture et plâtrerie en Île-de-France. Garantie décennale et intervention dans un rayon de 100km.",
+  title: "LOUSTALOT KIM - Rénovation, Toiture, Charpente & Maçonnerie en Nouvelle-Aquitaine",
+  description: "Kim Loustalot, entrepreneur du bâtiment spécialisé en rénovation, toiture, couverture, charpente et maçonnerie en Nouvelle-Aquitaine (33930). Devis gratuit et travaux de qualité.",
 };
 
 export default function RootLayout({
