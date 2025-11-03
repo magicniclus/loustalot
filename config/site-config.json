@@ -1,16 +1,16 @@
 {
   "company": {
-    "name": "Erick Toitures",
-    "legalName": "Erick Toitures",
-    "address": "Alpes-Maritimes, Rhône, Var",
-    "phone": "0601254573",
-    "email": "",
-    "siret": "À définir",
-    "ceo": "Erick Branco"
+    "name": "LOUSTALOT KIM",
+    "legalName": "Loustalot Kim",
+    "address": "Nouvelle-Aquitaine (33930)",
+    "phone": "0780636848",
+    "email": "ent.loustalot33@gmail.com",
+    "siret": "Auto-entrepreneur",
+    "ceo": "Kim Loustalot"
   },
   "hero": {
-    "title": "Erick Toitures - Charpente, Couverture, Zinguerie & Isolation",
-    "subtitle": "Votre expert du secteur de la toiture : charpente, couverture, zinguerie, rénovation et isolation dans les Alpes-Maritimes, le Rhône et le Var",
+    "title": "LOUSTALOT KIM - Rénovation, Toiture, Couverture & Charpente",
+    "subtitle": "Entrepreneur du bâtiment spécialisé en rénovation, toiture, couverture, charpente et maçonnerie en Nouvelle-Aquitaine",
     "buttonText": "Demander un devis",
     "buttonHref": "#contact",
     "backgroundImage": null,
@@ -20,9 +20,9 @@
     "sections": [
       {
         "smallTitle": "Notre savoir-faire",
-        "title": "Expertise en toiture et charpente",
-        "subtitle": "Charpente, couverture, zinguerie, rénovation et isolation",
-        "content": "Spécialisés dans les travaux de charpente, couverture, zinguerie, rénovation et isolation, nous intervenons sur tous types de projets dans les départements des Alpes-Maritimes, du Rhône et du Var. Notre équipe de 2 à 5 collaborateurs qualifiés vous garantit des travaux conformes aux normes en vigueur, avec la sécurité d'une garantie décennale. Nous privilégions la qualité et la satisfaction client sur chaque intervention.",
+        "title": "Expertise en rénovation et toiture",
+        "subtitle": "Rénovation, toiture, couverture, charpente et maçonnerie",
+        "content": "Entrepreneur du bâtiment spécialisé dans les travaux de rénovation, toiture, couverture, charpente et maçonnerie, j'interviens sur tous types de projets en Nouvelle-Aquitaine. Mon expertise et mon savoir-faire vous garantissent des travaux de qualité, conformes aux normes en vigueur. Je privilégie la satisfaction client et la qualité des finitions sur chaque intervention.",
         "gradientFrom": "#2563eb",
         "gradientTo": "#3b82f6",
         "buttonText": "Voir nos prestations",
@@ -31,9 +31,9 @@
       },
       {
         "smallTitle": "Notre zone d'intervention",
-        "title": "Service multi-départemental",
-        "subtitle": "Intervention dans les Alpes-Maritimes, le Rhône et le Var",
-        "content": "Implantés sur plusieurs départements stratégiques, nous intervenons principalement dans les Alpes-Maritimes, le Rhône et le Var pour répondre rapidement à vos besoins en toiture. Que ce soit pour des travaux de charpente, couverture, zinguerie, rénovation ou isolation, nous nous déplaçons chez vous avec tout le matériel nécessaire. Notre présence multi-départementale nous permet d'assurer un suivi personnalisé et des délais d'intervention optimisés.",
+        "title": "Service en Nouvelle-Aquitaine",
+        "subtitle": "Intervention dans la région Nouvelle-Aquitaine (33930)",
+        "content": "Basé en Nouvelle-Aquitaine, j'interviens dans toute la région pour répondre rapidement à vos besoins en rénovation et toiture. Que ce soit pour des travaux de charpente, couverture, maçonnerie ou rénovation complète, je me déplace chez vous avec tout le matériel nécessaire. Ma proximité géographique me permet d'assurer un suivi personnalisé et des délais d'intervention optimisés.",
         "gradientFrom": "#059669",
         "gradientTo": "#10b981",
         "buttonText": "Vérifier votre zone",
@@ -44,72 +44,77 @@
   },
   "gallery": {
     "title": "Nos Réalisations",
-    "subtitle": "Découvrez nos travaux de charpente, couverture, zinguerie et isolation dans les Alpes-Maritimes, le Rhône et le Var",
+    "subtitle": "Découvrez mes réalisations en rénovation, toiture, couverture, charpente et maçonnerie en Nouvelle-Aquitaine",
     "initialDisplayCount": 4,
     "images": [
       {
         "src": "https://images.unsplash.com/photo-1621905251189-08b45d6a269e?w=800&h=800&fit=crop",
-        "alt": "Travaux de charpente - Alpes-Maritimes, Rhône, Var",
-        "title": "Travaux de charpente - Alpes-Maritimes, Rhône, Var"
+        "alt": "Travaux de charpente - Nouvelle-Aquitaine",
+        "title": "Travaux de charpente - Nouvelle-Aquitaine"
       },
       {
         "src": "https://images.unsplash.com/photo-1589939705384-5185137a7f0f?w=800&h=800&fit=crop",
-        "alt": "Couverture toiture - Alpes-Maritimes, Rhône, Var",
-        "title": "Couverture toiture - Alpes-Maritimes, Rhône, Var"
+        "alt": "Couverture toiture - Nouvelle-Aquitaine",
+        "title": "Couverture toiture - Nouvelle-Aquitaine"
       },
       {
         "src": "https://images.unsplash.com/photo-1586023492125-27b2c045efd7?w=800&h=800&fit=crop",
-        "alt": "Zinguerie et étanchéité - Alpes-Maritimes, Rhône, Var",
-        "title": "Zinguerie et étanchéité - Alpes-Maritimes, Rhône, Var"
+        "alt": "Rénovation complète - Nouvelle-Aquitaine",
+        "title": "Rénovation complète - Nouvelle-Aquitaine"
       },
       {
-        "src": "https://images.unsplash.com/photo-1558618666-fcd25c85cd64?w=800&h=800&fit=crop",
-        "alt": "Isolation toiture - Alpes-Maritimes, Rhône, Var",
-        "title": "Isolation toiture - Alpes-Maritimes, Rhône, Var"
+        "src": "https://images.unsplash.com/photo-1484154218962-a197022b5858?w=800&h=800&fit=crop",
+        "alt": "Maçonnerie - Nouvelle-Aquitaine",
+        "title": "Maçonnerie - Nouvelle-Aquitaine"
+      },
+      {
+        "src": "https://images.unsplash.com/photo-1449844908441-8829872d2607?w=800&h=800&fit=crop",
+        "alt": "Travaux de rénovation - Nouvelle-Aquitaine",
+        "title": "Travaux de rénovation - Nouvelle-Aquitaine"
+      },
+      {
+        "src": "https://images.unsplash.com/photo-1560518883-ce09059eeffa?w=800&h=800&fit=crop",
+        "alt": "Finitions soignées - Nouvelle-Aquitaine",
+        "title": "Finitions soignées - Nouvelle-Aquitaine"
       }
     ]
   },
   "contact": {
     "title": "Contactez-nous",
-    "subtitle": "Devis gratuit et personnalisé pour vos travaux de toiture dans les Alpes-Maritimes, le Rhône et le Var"
+    "subtitle": "Demandez votre devis gratuit pour vos travaux de rénovation, toiture, charpente et maçonnerie en Nouvelle-Aquitaine"
   },
   "team": {
+    "title": "Votre Artisan",
+    "subtitle": "Entrepreneur du bâtiment à votre service",
     "members": [
       {
-        "name": "Erick Branco",
-        "position": "Spécialiste toiture et charpente",
-        "description": "Spécialisé en charpente, couverture, zinguerie, rénovation et isolation dans les Alpes-Maritimes, le Rhône et le Var. Entreprise SAS avec une équipe de 2 à 5 collaborateurs qualifiés, garantie décennale. Nous nous engageons à fournir des prestations de qualité avec des finitions soignées pour tous vos projets de toiture.",
-        "photo": "https://images.unsplash.com/photo-1507003211169-0a1dd7228f2d?w=400&h=400&fit=crop&crop=face"
+        "name": "Kim Loustalot",
+        "position": "Entrepreneur du bâtiment",
+        "description": "Entrepreneur du bâtiment spécialisé en rénovation, toiture, couverture, charpente et maçonnerie en Nouvelle-Aquitaine. Je m'engage à fournir des prestations de qualité avec des finitions soignées pour tous vos projets de rénovation et de toiture.",
+        "photo": "https://images.unsplash.com/photo-1507003211169-0a1dd7228f2d?w=400&h=400&fit=crop&crop=face",
+        "skills": ["Rénovation", "Toiture", "Charpente", "Maçonnerie"]
       }
     ]
   },
   "partners": {
+    "title": "Nos Partenaires",
+    "subtitle": "Ils nous font confiance",
     "logos": [
       {
         "src": "https://images.unsplash.com/photo-1599305445671-ac291c95aaa9?w=200&h=100&fit=crop",
-        "alt": "Fournisseur matériaux toiture",
-        "name": "Fournisseur matériaux toiture"
+        "alt": "Partenaire 1",
+        "name": "Partner 1"
       },
       {
         "src": "https://images.unsplash.com/photo-1560472354-b33ff0c44a43?w=200&h=100&fit=crop",
-        "alt": "Fournisseur charpente",
-        "name": "Fournisseur charpente"
+        "alt": "Partenaire 2",
+        "name": "Partner 2"
       },
       {
         "src": "https://images.unsplash.com/photo-1551434678-e076c223a692?w=200&h=100&fit=crop",
-        "alt": "Fournisseur zinguerie",
-        "name": "Fournisseur zinguerie"
-      },
-      {
-        "src": "https://images.unsplash.com/photo-1486406146926-c627a92ad1ab?w=200&h=100&fit=crop",
-        "alt": "Partenaire isolation",
-        "name": "Partenaire isolation"
+        "alt": "Partenaire 3",
+        "name": "Partner 3"
       }
     ]
-  },
-  "colors": {
-    "primary": "#2563eb",
-    "secondary": "#059669",
-    "accent": "#3b82f6"
   }
 }

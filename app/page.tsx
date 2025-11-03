@@ -20,28 +20,32 @@ export default function Home() {
   });
   const servicesData = [
     {
+      title: "Rénovation",
+      subtitle: "Rénovation complète",
+      content: "Rénovation intérieure et extérieure, aménagement d'espaces, modernisation de votre habitat. Travaux de qualité avec finitions soignées.",
+      image: "/charpente2.png",
+      href: "/services/renovation"
+    },
+    {
+      title: "Toiture",
+      subtitle: "Couverture & Étanchéité",
+      content: "Pose et rénovation de toitures, tuiles, ardoises, bac acier. Travaux d'étanchéité et réparations pour une protection optimale de votre habitat.",
+      image: "/charpente2.png",
+      href: "/services/toiture"
+    },
+    {
       title: "Charpente",
-      subtitle: "Construction & Rénovation",
-      content: "Conception, construction et rénovation de charpentes traditionnelles et industrielles. Expertise en bois massif et lamellé-collé avec garantie décennale.",
-      image: "/charpente2.png"
+      subtitle: "Construction & Réparation",
+      content: "Conception, construction et réparation de charpentes traditionnelles. Expertise en bois massif pour tous vos projets de construction et rénovation.",
+      image: "/charpente2.png",
+      href: "/services/charpente"
     },
     {
-      title: "Couverture",
-      subtitle: "Toiture & Étanchéité",
-      content: "Pose et rénovation de toitures, tuiles, ardoises, bac acier. Travaux d'étanchéité et isolation thermique pour une protection optimale.",
-      image: "/charpente2.png"
-    },
-    {
-      title: "Zinguerie",
-      subtitle: "Évacuation & Finitions",
-      content: "Installation de gouttières, chéneaux, descentes pluviales. Travaux de zinguerie et finitions métalliques pour l'évacuation des eaux.",
-      image: "/charpente2.png"
-    },
-    {
-      title: "Isolation",
-      subtitle: "Thermique & Phonique",
-      content: "Isolation de toitures, combles et murs. Solutions thermiques et phoniques performantes pour améliorer le confort et réduire les consommations.",
-      image: "/charpente2.png"
+      title: "Maçonnerie",
+      subtitle: "Gros œuvre & Finitions",
+      content: "Travaux de maçonnerie générale, création de murs, cloisons, dalles. Maçonnerie de finition et réparations diverses.",
+      image: "/charpente2.png",
+      href: "/services/maconnerie"
     }
   ];
 
@@ -113,19 +117,19 @@ export default function Home() {
 
   const teamMembers = [
     {
-      name: "Erick Branco",
-      position: "Spécialiste toiture et charpente",
-      description: "Spécialisé en charpente, couverture, zinguerie, rénovation et isolation dans les Alpes-Maritimes, le Rhône et le Var. Entreprise SAS avec une équipe de 2 à 5 collaborateurs qualifiés, garantie décennale. Nous nous engageons à fournir des prestations de qualité avec des finitions soignées pour tous vos projets de toiture.",
+      name: "Kim Loustalot",
+      position: "Entrepreneur du bâtiment",
+      description: "Entrepreneur du bâtiment spécialisé en rénovation, toiture, couverture, charpente et maçonnerie en Nouvelle-Aquitaine. Je m'engage à fournir des prestations de qualité avec des finitions soignées pour tous vos projets de rénovation et de toiture.",
       photo: "https://images.unsplash.com/photo-1507003211169-0a1dd7228f2d?w=400&h=400&fit=crop&crop=face"
     }
   ];
 
   const contactInfo = {
-    address: "Alpes-Maritimes, Rhône, Var\nFrance",
-    phone: "06 01 25 45 73",
-    email: "",
+    address: "Nouvelle-Aquitaine (33930)\nFrance",
+    phone: "07 80 63 68 48",
+    email: "ent.loustalot33@gmail.com",
     hours: "Lundi - Vendredi: 8h00 - 18h00\nSamedi: 8h00 - 12h00",
-    mapEmbedUrl: "https://maps.google.com/maps?q=Nice,Lyon,Var,France&t=&z=7&ie=UTF8&iwloc=&output=embed"
+    mapEmbedUrl: "https://maps.google.com/maps?q=Nouvelle-Aquitaine,33930,France&t=&z=10&ie=UTF8&iwloc=&output=embed"
   };
 
   return (
@@ -164,7 +168,7 @@ export default function Home() {
         buttonHref={config.about.sections[1].buttonHref}
         reversed={config.about.sections[1].reversed}
       />
-      <TeamSection title="Notre Équipe" subtitle="3 collaborateurs qualifiés au service de vos projets" config={config.team} />
+      <TeamSection title="Votre Artisan" subtitle="Entrepreneur du bâtiment à votre service" config={config.team} />
       <ContactSection contactInfo={contactInfo} />
 
       {/* Exit Intent Popup */}
